@@ -1,0 +1,20 @@
+{
+    "name": "thebbapp/smart-banner",
+    "description": "Smart app banner interface and functions for BbApp.",
+    "type": "library",
+    "license": "AGPL-3.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "BbApp\\SmartBanner\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=7.2.24"
+    },
+    "funding": [
+        {
+            "type": "paypal",
+            "url": "https://thebbapp.com/donate"
+        }
+    ]
+}
